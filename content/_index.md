@@ -19,7 +19,7 @@
 ## 1. Teilnahmeberechtigte Spieler
 Teilnahmeberechtigt sind alle Bewohner der Insterburg oder des HFK.
 
-## 2. Startgeld
+## 2. Anmeldung und Startgeld
 Das Startgeld beträgt grundsätzlich 5 Euro. Es ist bei der Anmeldung zu entrichten. Es wird dafür genutzt einen Wanderpokal für 4 Semester zu kaufen und je nach Zahl der Teilnehmen auch kleinere Preise. Angemeldet ist, wer das Startgeld zusammen mit seinem Namen und der Nachricht „Insterburg Pokal“, rechtzeitig per PayPal an @Primo909 gesendet hat.
 
 ## 3. Aufschreiben
