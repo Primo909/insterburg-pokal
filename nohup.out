@@ -1,0 +1,12 @@
+
+(org.gnome.Nautilus:7291): Gtk-WARNING **: 12:46:45.682: Duplicate child name in GtkStack: pythontex Example
+
+(org.gnome.Nautilus:7291): Gtk-WARNING **: 12:46:45.682: Duplicate child name in GtkStack: pythontex-files-document
+
+(org.gnome.Nautilus:7291): Gtk-WARNING **: 12:46:45.685: Duplicate child name in GtkStack: eduroam
+
+(org.gnome.Nautilus:7291): Gtk-WARNING **: 12:46:47.022: Duplicate child name in GtkStack: pythontex Example
+
+(org.gnome.Nautilus:7291): Gtk-WARNING **: 12:46:47.022: Duplicate child name in GtkStack: pythontex-files-document
+
+(org.gnome.Nautilus:7291): Gtk-WARNING **: 12:46:47.025: Duplicate child name in GtkStack: eduroam
