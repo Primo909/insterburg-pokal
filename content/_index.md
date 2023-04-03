@@ -1,6 +1,6 @@
 # Insterburg Pokal SS23 
 
-{{< myfig src="/images/ksf.png" title="Sponsored by">}}
+{{< myfig src="images/ksf.png" title="Sponsored by">}}
 
 
 #### Kurzzusammenfassung:
