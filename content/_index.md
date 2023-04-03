@@ -1,6 +1,9 @@
-# Ausschreibung des Insterburg Pokals SS23
+# Insterburg Pokal SS23 
 
-## Kurzzusammenfassung:
+{{< myfig src="/images/ksf.png" title="Sponsored by">}}
+
+
+#### Kurzzusammenfassung:
 
 * Tritt an um den ersten Insterburger Wanderpokal zu gewinnen
 * Alle zwei Wochen eine lange Schachpartie mit Aufschreiben
