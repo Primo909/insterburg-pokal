@@ -7,11 +7,11 @@
 
 * Tritt an um den ersten Insterburger Wanderpokal zu gewinnen
 * Alle zwei Wochen eine lange Schachpartie mit Aufschreiben
-* Double Knockout, mindestens 2 Turnierpartien
+* Jeder-gegen-jeden, 5 Partien
 * Bringt zum Spiel euer eigenes Brett und eure eigene Uhr mit
 * Bei Fragen oder Unklarheiten, wendet euch an den Turnierleiter
 
-**Turnierleiter**: Kevin Steiner (+49 176 97898853)
+**Turnierleiter**: Kevin Steiner 
 
 **Anmeldefrist**: 14. April
 
@@ -38,10 +38,8 @@ Die die Ergebnisse und die Parteiformulare der Runde müssen bis 22:00 dem Turni
 
 ## 5. Spielmodus
 Die Bedenkzeit ist 30 Minuten + 30 Sekunden pro Zug (Fischer Modus). Bei falschen Zügen, zum Beispiel der eigene König im Schach steht und das nicht gesehen wird, dann bekommt der Gegner eine Zeitgutschrift von 5 min.
-Ein Turnier im Modus double knockout ist vorgesehen, aber je nach Zahl der Teilnehmer behält es sich der Turnierleiter vor einen anderen Turniermodus zu wählen.
-Für den Fall von Unentschieden/Remis in einer Partie spielen beide Spieler einen Schnellschachvergleich mit 10 Minuten Bedenkzeit pro Spieler, mit vertauschten Farben und ohne aufschreiben. 
-Endet auch dieser Vergleich unentschieden entscheidet ein Blitzvergleich mit 3 Minuten plus 2 Sekunden pro Zug, wieder mit getauschten Farben, über das weiterkommen.
-Endet auch dieser Vergleich unentschieden werden wieder Farben getauscht und der Spieler mit Weiß erhält 4 Minuten, der Spieler mit Schwarz 3 Minuten, jeweils plus 2 Sekunden pro Zug. Endet auch diese Partie unentschieden hat Schwarz gewonnen.
+
+Wir sind genau die richtige Anzahl und spielen deswegen ein jeder-gegen-jeden Turnier. Die Mögliche Ergebnisse sind also Weiß gewinnt (1-0), Schwarz gewinnt (0-1) und Remis (0.5-0.5)
 
 
 
