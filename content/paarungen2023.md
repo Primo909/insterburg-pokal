@@ -4,7 +4,7 @@ menu = "main"
 +++
 #### Schachnotation
 
-[Hier](chess_notation.pdf) ist ein kleines cheat sheet für die Schachnotation. Die Partieformulare in der Küche vom ersten Flur. Schickt mir die Ergebnisse per WhatsApp zu wenn ihr fertig seid. Ihr dürft sie auch gerne auf einer [Schachwebsite](https://lichess.org/analysis) eingeben und mir die pgn Datei schicken. Dann werde ich euer Kunstwerk auf der Seite veröffentlichen, damit es alle ansehen können. Viel Spaß und möge der Bessere gewinnen!
+[Hier](/chess_notation.pdf) ist ein kleines cheat sheet für die Schachnotation. Die Partieformulare in der Küche vom ersten Flur. Schickt mir die Ergebnisse per WhatsApp zu wenn ihr fertig seid. Ihr dürft sie auch gerne auf einer [Schachwebsite](https://lichess.org/analysis) eingeben und mir die pgn Datei schicken. Dann werde ich euer Kunstwerk auf der Seite veröffentlichen, damit es alle ansehen können. Viel Spaß und möge der Bessere gewinnen!
 
 # Paarungen
 | Runde | Weiß           | Schwarz           |  Ergebnis |
