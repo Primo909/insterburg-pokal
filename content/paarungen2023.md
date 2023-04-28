@@ -14,9 +14,9 @@ Partien pgn als [Lichess Studie](https://lichess.org/study/ooXvxmk4).
 # Paarungen
 | Runde | Weiß           | Schwarz           |  Ergebnis |
 |-------|----------------|-----------------|-------|
-| 1     | Georg Pernice  | Ferdinand Schuh     | 1 - 0 |
+| 1     | Georg Pernice  | Ferdinand Schuh     | 0 - 1 |
 | 1     |  Luca Frey      | Léo Brucker     | 1/2 - 1/2  |
-| 1     |  Hannah T.      | Tim Nowakowsky  |  |
+| 1     |  Hannah T.      | Tim Nowakowsky  | 0 - 1 |
 
 
 
