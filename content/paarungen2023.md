@@ -19,7 +19,7 @@ Partien pgn als [Lichess Studie](https://lichess.org/study/ooXvxmk4).
 | 1     |  Hannah T.      | Tim Nowakowsky  | 0 - 1 |
 ||
 | 2     | Georg Pernice  | Hannah T.     |  |
-| 2     |  Tim Nowakowsky | Luca Frey     |  |
+| 2     |  Tim Nowakowsky | Luca Frey     | 0 - 1 |
 | 2     |  Léo Brucker   | Ferdinand Schuh  |  |
 
 
