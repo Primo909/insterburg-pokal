@@ -18,18 +18,22 @@ Partien pgn als [Lichess Studie](https://lichess.org/study/ooXvxmk4).
 | 1     |  Luca Frey      | Léo Brucker     | 1/2 - 1/2  |
 | 1     |  Hannah T.      | Tim Nowakowsky  | 0 - 1 |
 ||
-| 2     | Georg Pernice  | Hannah T.     |  |
+| 2     | Georg Pernice  | Hannah T.     |  0 - 1|
 | 2     |  Tim Nowakowsky | Luca Frey     | 0 - 1 |
-| 2     |  Léo Brucker   | Ferdinand Schuh  |  |
+| 2     |  Léo Brucker   | Ferdinand Schuh  | 0 - 1 |
+||
+| 3 	| Georg Pernice 	| 	Luca Frey 	| |
+| 3 	| Hannah T. 	| 	Ferdi 			| 	 |
+| 3 	| Tim Nowakowsky 	| 	Léo Brucker | |
 
 
 # Stand nach erster Runde
 
-|    | Spieler         |   Runde 1 | Runde 2   | Runde 3   | Runde 4   | Runde 5   |   Punkte |
-|---:|:----------------|----------:|:----------|:----------|:----------|:----------|---------:|
-|  1 | Ferdinand Schuh |       1   |           |           |           |           |      1   |
-|  2 | Tim Nowakowsky  |       1   |           |           |           |           |      1   |
-|  3 | Luca Frey       |       0.5 |           |           |           |           |      0.5 |
-|  4 | Léo Brucker     |       0.5 |           |           |           |           |      0.5 |
-|  5 | Georg Pernice   |       0   |           |           |           |           |      0   |
-|  6 | Hannah T.       |       0   |           |           |           |           |      0   |
+|    | Spieler         |   Runde 1 |   Runde 2 | Runde 3   | Runde 4   | Runde 5   |   Punkte |
+|---:|:----------------|----------:|----------:|:----------|:----------|:----------|---------:|
+|  1 | Ferdinand Schuh |       1   |         1 |           |           |           |      2   |
+|  2 | Luca Frey       |       0.5 |         1 |           |           |           |      1.5 |
+|  3 | Hannah T.       |       0   |         1 |           |           |           |      1   |
+|  4 | Tim Nowakowsky  |       1   |         0 |           |           |           |      1   |
+|  5 | Léo Brucker     |       0.5 |         0 |           |           |           |      0.5 |
+|  6 | Georg Pernice   |       0   |         0 |           |           |           |      0   |
