@@ -23,18 +23,21 @@ Partien pgn als [Lichess Studie](https://lichess.org/study/ooXvxmk4).
 | 3     | Georg Pernice  | Luca Frey       | 0 - 1     |
 | 3     | Hannah T.      | Ferdi           | 0 - 1     |
 | 3     | Tim Nowakowsky | Léo Brucker     | 1 - 0     |
-| 4     | Georg Pernice  | Léo Brucker     |           |
-| 4     | Ferdi          | Tim Nowakowsky  |           |
-| 4     | Luca Frey      | Hannah T.       |           |
+| 4     | Georg Pernice  | Léo Brucker     | 0 - 1     |
+| 4     | Ferdi          | Tim Nowakowsky  | 1 - 0     |
+| 4     | Luca Frey      | Hannah T.       | 1 - 0     |
+| 5     | Georg Pernice  | Tim Nowakowsky  |           |
+| 5     | Léo Brucker    | Hannah T.       |           |
+| 5     | Ferdu          | Luca Frey       |           |
 
 
-# Stand nach dritter Runde
+# Stand nach vierter Runde
 
-|    | Spieler         |   Runde 1 |   Runde 2 |   Runde 3 | Runde 4   | Runde 5   |   Punkte |
-|---:|:----------------|----------:|----------:|----------:|:----------|:----------|---------:|
-|  1 | Ferdinand Schuh |       1   |         1 |         1 |           |           |      3   |
-|  2 | Luca Frey       |       0.5 |         1 |         1 |           |           |      2.5 |
-|  3 | Tim Nowakowsky  |       1   |         0 |         1 |           |           |      2   |
-|  4 | Hannah T.       |       0   |         1 |         0 |           |           |      1   |
-|  5 | Léo Brucker     |       0.5 |         0 |         0 |           |           |      0.5 |
-|  6 | Georg Pernice   |       0   |         0 |         0 |           |           |      0   |
+|    | Spieler         |   Runde 1 |   Runde 2 |   Runde 3 |   Runde 4 | Runde 5   |   Punkte |
+|---:|:----------------|----------:|----------:|----------:|----------:|:----------|---------:|
+|  1 | Ferdinand Schuh |       1   |         1 |         1 |         1 |           |      4   |
+|  2 | Luca Frey       |       0.5 |         1 |         1 |         1 |           |      3.5 |
+|  3 | Tim Nowakowsky  |       1   |         0 |         1 |         0 |           |      2   |
+|  4 | Léo Brucker     |       0.5 |         0 |         0 |         1 |           |      1.5 |
+|  5 | Hannah T.       |       0   |         1 |         0 |         0 |           |      1   |
+|  6 | Georg Pernice   |       0   |         0 |         0 |         0 |           |      0   |
