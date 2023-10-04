@@ -1,19 +1,24 @@
-# Insterburg Pokal WS23/24
++++
+title = "Ausschreibung SS23"
+date = 2023-06-30
++++
+
+# Insterburg Pokal SS23 
 
 {{< myfig src="images/ksf.png" title="Sponsored by">}}
 
 
 #### Kurzzusammenfassung:
 
-* Tritt an um den Insterburger Wanderpokal dem Amtierenden Meister Luca abzunehmen
+* Tritt an um den ersten Insterburger Wanderpokal zu gewinnen
 * Alle zwei Wochen eine lange Schachpartie mit Aufschreiben
-* Jeder-gegen-jeden, geschätzt 5 Partien
+* Jeder-gegen-jeden, 5 Partien
 * Bringt zum Spiel euer eigenes Brett und eure eigene Uhr mit
 * Bei Fragen oder Unklarheiten, wendet euch an den Turnierleiter
 
 **Turnierleiter**: Kevin Steiner 
 
-**Anmeldefrist**: 20. Oktober
+**Anmeldefrist**: 14. April
 
 
 ## 1. Teilnahmeberechtigte Spieler
@@ -28,14 +33,11 @@ Wir spielen langes Schach (siehe 5. Spielmodus) mit aufschreiben. Die Parteiform
 ## 4. Spieltermine
 Wir haben alle unterschiedliche Leben und nicht immer gleichzeitig Zeit. Wir spielen 5 Runden dezentral (an mehreren Orten und Zeiten). Die beiden ausgelosten Spieler mach selbst eine Zeit und einen Ort für ihr Spiel aus. Je nach Verfügbarkeit der Teilnehmer kann das Finale zentral mit Zuschauern ausgetragen werden.
 
-1. Runde: 23.10 bis 05.11
-2. Runde: 06.11 bis 19.11
-3. Runde: 20.11 bis 03.12
-4. Runde: 04.12 bis 24.12
-
-==== Weihnachtspause ====
-
-5. Runde: 08.01 bis 21.01
+1. Runde: 17.04 bis 30.03
+2. Runde: 01.05 bis 14.05
+3. Runde: 15.05 bis 28.05
+4. Runde: 29.05 bis 11.06
+5. Runde: 12.06 bis 26.06
 
 Die die Ergebnisse und die Parteiformulare der Runde müssen bis 22:00 dem Turnierleiter zugeschickt werden, sonst erhalten beide Spieler Null Punkte. Die neuen Paarungen werden am ersten Tag der Runde am Nachmittag veröffentlicht. Wenn ein, oder beide Spieler verhindert sein sollten, kontaktiert bitte so früh wie möglich den Turnierleiter, damit eine Lösung gefunden werden kann.
 

@@ -1,6 +1,6 @@
 +++
-title = "Paarungen"
-menu = "main"
+title = "Ergebnisse SS23"
+date = 2023-04-10
 +++
 #### Schachnotation
 
