@@ -28,14 +28,15 @@ Wir spielen langes Schach (siehe 5. Spielmodus) mit aufschreiben. Die Parteiform
 ## 4. Spieltermine
 Wir haben alle unterschiedliche Leben und nicht immer gleichzeitig Zeit. Wir spielen 5 Runden dezentral (an mehreren Orten und Zeiten). Die beiden ausgelosten Spieler mach selbst eine Zeit und einen Ort für ihr Spiel aus. Je nach Verfügbarkeit der Teilnehmer kann das Finale zentral mit Zuschauern ausgetragen werden.
 
-1. Runde: 23.10 bis 05.11
-2. Runde: 06.11 bis 19.11
-3. Runde: 20.11 bis 03.12
-4. Runde: 04.12 bis 24.12
+1. Runde: 20.11 bis 26.11
+2. Runde: 27.11 bis 03.12
+3. Runde: 04.12 bis 10.12
+4. Runde: 11.12 bis 24.12
 
 ==== Weihnachtspause ====
 
-5. Runde: 08.01 bis 21.01
+5. Runde: 08.01 bis 14.01
+6. Runde: 15.01 bis 21.01
 
 Die die Ergebnisse und die Parteiformulare der Runde müssen bis 22:00 dem Turnierleiter zugeschickt werden, sonst erhalten beide Spieler Null Punkte. Die neuen Paarungen werden am ersten Tag der Runde am Nachmittag veröffentlicht. Wenn ein, oder beide Spieler verhindert sein sollten, kontaktiert bitte so früh wie möglich den Turnierleiter, damit eine Lösung gefunden werden kann.
 
